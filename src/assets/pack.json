@@ -1,0 +1,248 @@
+{
+    "preload": {
+      "files": [
+        {
+          "type": "image",
+          "key": "board_0",
+          "url": "./assets/sprites/bg_game0.jpg"
+        },      
+        {
+          "type": "image",
+          "key": "logo",
+          "url": "./assets/sprites/logo_menu.png"
+        },   
+        {
+          "type": "image",
+          "key": "yesBtn",
+          "url": "./assets/sprites/but_yes.png"
+        },   
+        {
+          "type": "image",
+          "key": "noBtn",
+          "url": "./assets/sprites/but_no.png"
+        },       
+        {
+          "type": "image",
+          "key": "turn_panel",
+          "url": "./assets/sprites/turn_panel.png"
+        },              
+        {
+          "type": "image",
+          "key": "bg_menu",
+          "url": "./assets/sprites/bg_menu.jpg"
+        },             
+        {
+          "type": "image",
+          "key": "playBtn",
+          "url": "./assets/sprites/but_play.png"
+        },       
+        {
+          "type": "image",
+          "key": "board_1",
+          "url": "./assets/sprites/bg_game1.jpg"
+        },
+        {
+          "type": "image",
+          "key": "ladder_1",
+          "url": "./assets/sprites/ladders/ladder_1.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_4",
+          "url": "./assets/sprites/ladders/ladder_4.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_9",
+          "url": "./assets/sprites/ladders/ladder_9.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_21",
+          "url": "./assets/sprites/ladders/ladder_21.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_28",
+          "url": "./assets/sprites/ladders/ladder_28.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_36",
+          "url": "./assets/sprites/ladders/ladder_36.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_51",
+          "url": "./assets/sprites/ladders/ladder_51.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_71",
+          "url": "./assets/sprites/ladders/ladder_71.png"
+        },
+        {
+          "type": "image",
+          "key": "ladder_80",
+          "url": "./assets/sprites/ladders/ladder_80.png"
+        },
+        {
+          "type": "image",
+          "key": "panel_bg",
+          "url": "./assets/sprites/bg_help.png"
+        },
+        {
+          "type": "image",
+          "key": "vs_man_panel",
+          "url": "./assets/sprites/vs_man_panel.png"
+        },
+        {
+          "type": "image",
+          "key": "vs_pc_panel",
+          "url": "./assets/sprites/vs_pc_panel.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_16",
+          "url": "./assets/sprites/chutes/chute_16.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_47",
+          "url": "./assets/sprites/chutes/chute_47.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_49",
+          "url": "./assets/sprites/chutes/chute_49.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_56",
+          "url": "./assets/sprites/chutes/chute_56.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_62",
+          "url": "./assets/sprites/chutes/chute_62.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_64",
+          "url": "./assets/sprites/chutes/chute_64.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_87",
+          "url": "./assets/sprites/chutes/chute_87.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_93",
+          "url": "./assets/sprites/chutes/chute_93.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_95",
+          "url": "./assets/sprites/chutes/chute_95.png"
+        },
+        {
+          "type": "image",
+          "key": "chute_98",
+          "url": "./assets/sprites/chutes/chute_98.png"
+        },
+        {
+          "type": "image",
+          "key": "modeButton_0",
+          "url": "./assets/sprites/but_mode0.png"
+        },      
+          {
+          "type": "image",
+          "key": "homeBtn",
+          "url": "./assets/sprites/but_home.png"
+        }, 
+        {
+          "type": "image",
+          "key": "helpBtn",
+          "url": "./assets/sprites/but_help.png"
+        },  
+        {
+          "type": "image",
+          "key": "exitBtn",
+          "url": "./assets/sprites/but_exit.png"
+        },
+        {
+          "type": "image",
+          "key": "buttonSettings",
+          "url": "./assets/sprites/but_settings.png"
+        },         
+         {
+          "type": "image",
+          "key": "reloadBtn",
+          "url": "./assets/sprites/but_restart.png"
+        },
+        {
+          "type": "image",
+          "key": "help_snake",
+          "url": "./assets/sprites/help_snake.png"
+        },
+        {
+          "type": "image",
+          "key": "help_ladder",
+          "url": "./assets/sprites/help_ladder_sn.png"
+        },
+        {
+          "type": "image",
+          "key": "modeButton_1",
+          "url": "./assets/sprites/but_mode1.png"
+        },
+        {
+          "type": "image",
+          "key": "arrow",
+          "url": "./assets/sprites/arrow.png"
+        },
+        {
+          "type": "image",
+          "key": "nextBtn",
+          "url": "./assets/sprites/but_skip_small.png"
+        },
+        {
+          "type": "audio",
+          "key": "dice_sound",
+          "url": "./assets/sounds/dices.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "dice_sound",
+          "url": "./assets/sounds/dices.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "buttonClick",
+          "url": "./assets/sounds/but_press.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "step_land_sound",
+          "url": "./assets/sounds/step_land.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "bgSound",
+          "url": "./assets/sounds/soundtrack.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "snake",
+          "url": "./assets/sounds/snake.mp3"
+        },
+        {
+          "type": "audio",
+          "key": "ladder",
+          "url": "./assets/sounds/ladder.mp3"
+        }
+        
+        
+      ]
+    }
+}
