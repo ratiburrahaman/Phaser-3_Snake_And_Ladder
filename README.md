@@ -4,4 +4,5 @@
 2. npm start
 3. npm run build
 
-Contact with me for Develop your HTML5 game.
+Contact me to develop your HTML5 game.
+https://www.linkedin.com/in/ratibur-rahaman
